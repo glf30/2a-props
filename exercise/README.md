@@ -6,11 +6,7 @@ We are going to create a page that displays a list of favorite movies and actors
 
 ## Set Up And Run A New React App
 
-- Open the terminal to the `exercise` directory--the simplest way to do so is to right-click on the `exercise` folder in VS Code and select "Open in Integrated Terminal".
-
-- In the terminal, type `npm create vite .` and hit enter/return. The `.` is important--this will create a new Vite project in the current directory.
-
-- It will warn you that there are files here currently. Use the arrow keys and Enter/Return to select "Ignore files and continue". This allows us to keep our readme and any data/assets files we have in our new project folder.
+- Create a new React app using Vite called 2a-exercise
 
 - Choose React and then JavaScript from the following menus, using arrow keys and Enter/Return.
 
