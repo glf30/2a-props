@@ -24,7 +24,7 @@ Then inside the <div> create a heading <h1>Favorite Movies and Actors</h1>.
 
 Save the file and visit the browser to make sure our heading is appearing.
 
-Back inside /src/App.jsx below our <h1> heading, place a <div></div>.
+Back inside /src/App.jsx below our `<h1>` heading, place a `<div>`.
 
 ## Creating the Movie Component
 
