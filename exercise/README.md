@@ -20,7 +20,7 @@ Open `/src/App.jsx`. This file is an example component that React starts with. Y
 
 Create a `<div>` inside of the return() statement.
 
-Then inside the <div> create a heading <h1>Favorite Movies and Actors</h1>.
+Then inside the `<div>` create a heading `<h1>Favorite Movies and Actors</h1>`.
 
 Save the file and visit the browser to make sure our heading is appearing.
 
@@ -50,7 +50,7 @@ Inside the div, let's write some placeholder text "Hello, I'm an Actor!".
 
 Open /src/App.jsx again and create a new line to import our Movie and Actor components with import Movie from './Movie'; and import Actor from './Actor';.
 
-Then inside of the <div>, render your Movie and Actor components using <Movie /> and <Actor />.
+Then inside of the `<div>`, render your Movie and Actor components using <Movie /> and <Actor />.
 
 Save and check the browser. You should see the text "Hello, I'm a Movie!" and "Hello, I'm an Actor!" appearing.
 
