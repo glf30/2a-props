@@ -32,7 +32,7 @@ In VS Code, in the File Explorer to the left, right-click on the /src/ folder an
 
 Open /src/Movie.jsx and import React.
 
-Create a function called Movie that returns a <div> inside of parentheses. Don't forget to export the function at the bottom of the file.
+Create a function called Movie that returns a `<div>` inside of parentheses. Don't forget to export the function at the bottom of the file.
 
 Inside the div, let's write some placeholder text: "Hello, I'm a Movie!".
 
@@ -42,7 +42,7 @@ In VS Code, in the File Explorer to the left, right-click on the /src/ folder an
 
 Open /src/Actor.jsx and import React.
 
-Create a function called Actor that returns a <div> inside of parentheses. Don't forget to export the function at the bottom of the file.
+Create a function called Actor that returns a `<div>` inside of parentheses. Don't forget to export the function at the bottom of the file.
 
 Inside the div, let's write some placeholder text "Hello, I'm an Actor!".
 
