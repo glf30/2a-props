@@ -140,7 +140,7 @@ export default App;
 
 ## Updating the Actor Component
 
-Again, the Actor component still isn't rendering the actor's name and age. Head back to /src/Actor.jsx. Let's remove the text that says "Hello, I'm an Actor!" and replace it with an <h2> element to display the actor's name and a <p> element to display the actor's age.
+Again, the Actor component still isn't rendering the actor's name and age. Head back to /src/Actor.jsx. Let's remove the text that says "Hello, I'm an Actor!" and replace it with an `<h2>` element to display the actor's name and a `<p>` element to display the actor's age.
 
 
 ## Solution Code
