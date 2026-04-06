@@ -1,14 +1,8 @@
-# Props Exercise: Movie & Actor Display
-
-## Setup
-
-Create a new React app with Vite.
-
----
+# Props Assignment: Movie & Actor Display
 
 ## Assignment
 
-Build a page that displays movies and actors using components and props.
+Create a new React app with Vite. Build a page that displays movies and actors using components and props.
 
 ---
 
@@ -25,8 +19,8 @@ Create:
 
 Create:
 
-- **3+ movies** as strings  
-- **3+ actors** as objects with:
+- **3 or more movies** as strings  
+- **3 or more actors** as objects with:
   - `name`
   - `age`
 
@@ -64,7 +58,7 @@ Update your `Actor` component so that:
 
 ---
 
-## Stretch Goal (Optional)
+## Stretch Goal
 
 Add a second prop to `Actor` called `movies` (an array of movie titles).
 
