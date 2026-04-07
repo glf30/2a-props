@@ -17,7 +17,10 @@ Create the following components:
 
 ### Data
 
-- **3 or more movies** as strings  
+- **3 or more movies** as objects with:
+  - title: string
+  - year: number
+  - rating: number (1-5 stars)   
 - **3 or more actors** as objects with:
   - `name`: string
   - `age`: number
@@ -26,7 +29,10 @@ Create the following components:
 
 ### Rendering
 
-Pass the data as props to their respective components. Display the props for each component however you would like.  
+Pass the data as props to their respective components. Display the props for each component however you would like while also taking into account the following:
+
+- If the movie has a rating of **4.2 or higher**, display:  
+  **"Critically Acclaimed"**
 
 - If the actor is **50 or older**, display:  
   **"Veteran Actor"**
