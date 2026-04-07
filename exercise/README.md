@@ -29,7 +29,9 @@ Create the following components:
 
 ### Rendering
 
-Pass the data as props to their respective components. Display the props for each component however you would like while also taking into account the following:
+Pass the data as props to their respective components. 
+The Movie component should utilize the `props` object directly while the Actor component should utilize destructuring.  
+You can display the information however you want while also taking into acount the following:
 
 - If the movie has a rating of **4.2 or higher**, display:  
   **"Critically Acclaimed"**
