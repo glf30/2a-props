@@ -9,46 +9,24 @@ Create a new React app with Vite. Build a page that displays movies and actors u
 ## Requirements
 
 ### Components
-Create:
+Create the following components:
 - `Movie`
 - `Actor`
 
 ---
 
-### Data (in `App.jsx`)
-
-Create:
+### Data
 
 - **3 or more movies** as strings  
 - **3 or more actors** as objects with:
-  - `name`
-  - `age`
-
+  - `name`: string
+  - `age`: number
+  - `awards`: number (how many awards they've received)
 ---
 
 ### Rendering
 
-In `App.jsx`:
-
-- Render the `Movie` component multiple times, passing each movie as a prop  
-- Render the `Actor` component multiple times, passing each actor as a prop  
-
----
-
-### Display
-
-- `Movie` should display:
-  - Movie title  
-
-- `Actor` should display:
-  - Name  
-  - Age  
-
----
-
-### Add Conditional Logic to Actors
-
-Update your `Actor` component so that:
+Pass the data as props to their respective components. Display the props for each component however you would like.  
 
 - If the actor is **50 or older**, display:  
   **"Veteran Actor"**
@@ -57,10 +35,3 @@ Update your `Actor` component so that:
   **"Rising Talent"**
 
 ---
-
-## Stretch Goal
-
-Add a second prop to `Actor` called `movies` (an array of movie titles).
-
-- Pass a list of movies each actor is known for
-- Display those movie titles inside the `Actor` component
