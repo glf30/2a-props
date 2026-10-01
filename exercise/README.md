@@ -13,7 +13,7 @@ Create the following components:
 
 ---
 
-### Data
+### Your Data
 
 - **3 or more movies** as objects with:
   - title: string
@@ -25,10 +25,12 @@ Create the following components:
   - `awards`: number (how many awards they've received)
 ---
 
-### Rendering
+### Props and Rendering
 
 Pass the data as props to their respective components. 
-The Movie component should utilize the `props` object directly while the Actor component should utilize destructuring.  
+- The `Movie` component should utilize the `props` object directly.
+- The `Actor` component should utilize destructuring.
+  
 You can display the information however you want while also taking into acount the following:
 
 - If the movie has a rating of **4.2 or higher**, display:  
