@@ -33,13 +33,8 @@ Pass the data as props to their respective components.
   
 You can display the information however you want while also taking into acount the following:
 
-- If the movie has a rating of **4.2 or higher**, display:  
-  **"Critically Acclaimed"**
+- If the movie has a rating of **4.2 or higher**, display **"Critically Acclaimed"**
 
-- If the actor is **50 or older**, display:  
-  **"Veteran Actor"**
-
-- If the actor is **under 50**, display:  
-  **"Rising Talent"**
+- If the actor is **50 or older**, display **"Veteran Actor"**. If the actor is **under 50**, display **"Rising Talent"**
 
 ---
