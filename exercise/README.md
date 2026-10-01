@@ -6,8 +6,6 @@ Create a new React app with Vite. Build a page that displays movies and actors u
 
 ---
 
-## Requirements
-
 ### Components
 Create the following components:
 - `Movie`
